@@ -19,5 +19,5 @@ The dataset used on this project is a weather time series recorded at the Weathe
 
 ### Temperature Time Series
 
-![supply_chain](/images/d_1.png)
+![supply_chain](/images/temp.png)
 
