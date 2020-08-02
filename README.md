@@ -43,5 +43,23 @@ The dataset used on this project is a weather time series recorded at the Weathe
 
 ![supply_chain](/images/ml_model_results2.png)
 
+![supply_chain](/images/pca.png)
+
+![supply_chain](/images/pca2.png)
+
+![supply_chain](/images/pca_results1.png)
+
+![supply_chain](/images/pca_results2.png)
+
+![supply_chain](/images/arima_noise.png)
+
+![supply_chain](/images/arima_trend.png)
+
+![supply_chain](/images/arima1.png)
+
+![supply_chain](/images/arima2.png)
+
+![supply_chain](/images/arima3.png)
+
 
 
