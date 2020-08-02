@@ -21,3 +21,15 @@ The dataset used on this project is a weather time series recorded at the Weathe
 
 ![supply_chain](/images/temp.png)
 
+![supply_chain](/images/corr.png)
+
+![supply_chain](/images/heat.png)
+
+![supply_chain](/images/normalization.png)
+
+![supply_chain](/images/gradient_boosting.png)
+
+![supply_chain](/images/xg_boost.png)
+
+![supply_chain](/images/xg_boost_feature_importance.png)
+
