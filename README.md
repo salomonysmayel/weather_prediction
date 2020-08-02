@@ -21,17 +21,29 @@ The dataset used on this project is a weather time series recorded at the Weathe
 
 ![supply_chain](/images/temp.png)
 
+The variables are correlated as follows
+
 ![supply_chain](/images/corr.png)
+
+The following heatmap presents the correlation between the variables in a more graphic manner, were the lighter the color the higher the correlation and viseversa
 
 ![supply_chain](/images/heat.png)
 
+Now we proceed to normalize the data so that the ranges of values of the variables are not so disimilar.
+
 ![supply_chain](/images/normalization.png)
 
+The first machine learning model to build is a gradient boosting
+
 ![supply_chain](/images/gradient_boosting.png)
+
+the second machine learning model to build is a XG-Boost
 
 ![supply_chain](/images/xg_boost.png)
 
 ![supply_chain](/images/xg_boost_feature_importance.png)
+
+Finally a Neural Network is build
 
 ![supply_chain](/images/neural_net.png)
 
