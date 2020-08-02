@@ -47,21 +47,35 @@ Finally a Neural Network is build
 
 ![supply_chain](/images/neural_net.png)
 
+The following to graphs present the validation errors of the trainning proccess for the Neural Network. On the model loss vs epochs we can see how both train and validation go down and converge, which indicates that the model was not overfitted nor underfitted, which is the desirable outcome. 
+
 ![supply_chain](/images/neural_net_res1.png)
 
 ![supply_chain](/images/neural_net_res2.png)
 
+The following chart shows the result for the three machine learning models, to predict temperature. The second column is the real values from the test set, and the folllowing columns are the predicted values. 
+
 ![supply_chain](/images/ml_model_results.png)
 
+The mean suarqed errors of these predicted values with the real values are shown bellow.
+
 ![supply_chain](/images/ml_model_results2.png)
+
+Then a Principal Component Analysis was performed on the data to see if we could improve the results. In this case to go from 13 features to 6.
 
 ![supply_chain](/images/pca.png)
 
 ![supply_chain](/images/pca2.png)
 
+With this new reduced dataset the ML models were trainend again, the results below.
+
 ![supply_chain](/images/pca_results1.png)
 
 ![supply_chain](/images/pca_results2.png)
+
+Comparing the mean square erros with the results from the data without PCA shows that in this case PCA did not help to improve the results.
+
+Finally a time series analysis was performed, just with the temperature, to try to predict temperature values five steps ahead into the future.
 
 ![supply_chain](/images/arima_noise.png)
 
@@ -70,6 +84,8 @@ Finally a Neural Network is build
 ![supply_chain](/images/arima1.png)
 
 ![supply_chain](/images/arima2.png)
+
+Predictions 50 minutes into the future with time series analysis.
 
 ![supply_chain](/images/arima3.png)
 
