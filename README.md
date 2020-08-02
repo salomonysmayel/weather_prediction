@@ -33,5 +33,15 @@ The dataset used on this project is a weather time series recorded at the Weathe
 
 ![supply_chain](/images/xg_boost_feature_importance.png)
 
+![supply_chain](/images/neural_net.png)
+
+![supply_chain](/images/neural_net_res1.png)
+
+![supply_chain](/images/neural_net_res2.png)
+
+![supply_chain](/images/ml_model_results.png)
+
+![supply_chain](/images/ml_model_results2.png)
+
 
 
