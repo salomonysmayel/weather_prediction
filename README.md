@@ -7,5 +7,7 @@ Each one of these variables can be presented as a time series, were there is noi
 
 The dataset used on this project is a weather time series recorded at the Weather Station at the Max Planck Institute for Biogeochemistry in Jena, Germany. In the dataset 14 different variables were recorded every 10 minutes. The data used is from 2009 to 2016. Some of the variables are: temperature, atmospheric pressure, humidity and wind direction.
 
+![supply_chain](/images/data.png)
+
 
 
