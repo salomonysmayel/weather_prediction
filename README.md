@@ -11,6 +11,8 @@ The dataset used on this project is a weather time series recorded at the Weathe
 
 ### Density distributions of each data variable
 
+The data has the following distributions for each variable
+
 ![supply_chain](/images/d_1.png)
 
 ![supply_chain](/images/d_2.png)
